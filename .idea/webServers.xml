@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f23acabd-3759-4d91-a816-078ae5cbe8ee" name="腾讯云主机" url="http://119.29.235.148">
+        <fileTransfer host="119.29.235.148" port="22" rootFolder="/var/www/html/wchat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7a0311c7-58cd-4fad-9f19-577360de792c" name="万网虚拟主机" url="http://60.205.30.195">
+        <fileTransfer host="60.205.30.195" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../YiiFramework/RBAC/.idea/RBAC.iml" filepath="$PROJECT_DIR$/../YiiFramework/RBAC/.idea/RBAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WeChat.iml" filepath="$PROJECT_DIR$/.idea/WeChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ThinkPHP/think01/.idea/think01.iml" filepath="$PROJECT_DIR$/../ThinkPHP/think01/.idea/think01.iml" />
+    </modules>
+  </component>
+</project>
